@@ -28,8 +28,8 @@ function Certifications() {
               imgPath={aws}
               title="AWS Certified Solutions Architect"
               issuedBy="Amazon Web Services"
-              issueDate="Jan 2024"
-              certLink="https://aws.com/certificate-url"
+              issueDate="Aug 2023"
+              certLink="https://drive.google.com/file/d/1ZNNsV1CniCV4Es2jvlbO8u-sKhQe5pjo/view?usp=sharing"
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Certifications() {
               imgPath={devops}
               title="DevOps Foundation Certification"
               issuedBy="DevOps Institute"
-              issueDate="April 2024"
-              certLink="https://devops.com/certificate-url"
+              issueDate="Nov 2023"
+              certLink="https://drive.google.com/file/d/16JvKiR2_PT1--KNZyE3tnfRzXvwIOg20/view?usp=sharing"
             />
           </Col>
 
@@ -48,8 +48,8 @@ function Certifications() {
               imgPath={fullstack}
               title="Full Stack Java Developer Certification"
               issuedBy="Oracle"
-              issueDate="May 2024"
-              certLink="https://oracle.com/certificate-url"
+              issueDate="Nov 2022"
+              certLink="https://drive.google.com/file/d/1E68-UHmEg_ENSDDUgBI9Ntak2TW1dZhN/view?usp=sharing"
             />
           </Col>
 
@@ -58,8 +58,8 @@ function Certifications() {
               imgPath={iot}
               title="IoT Developer Certification"
               issuedBy="Cisco"
-              issueDate="June 2024"
-              certLink="https://cisco.com/certificate-url"
+              issueDate="March 2021"
+              certLink="https://drive.google.com/file/d/1Y4QVzUFLty08NHdSS5LIPU4srBC6Ditk/view?usp=sharing"
             />
           </Col>
 
@@ -68,8 +68,8 @@ function Certifications() {
               imgPath={uiux}
               title="UI/UX Design Certification"
               issuedBy="Google"
-              issueDate="July 2024"
-              certLink="https://google.com/certificate-url"
+              issueDate="April 2021"
+              certLink="https://drive.google.com/file/d/174yVlrQgojXZidzORYcd7EMD158pO24x/view?usp=sharing"
             />
           </Col>
         </Row>

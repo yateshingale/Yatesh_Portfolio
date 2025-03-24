@@ -1,0 +1,8 @@
+.my-photo {
+    width: 350px; 
+    height: 350px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 5px solid #6c63ff; /* Purple border */
+  }
+  
