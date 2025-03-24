@@ -45,10 +45,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": ".",
-  "reactScriptsVersion": "5.0.0",
-  "resolutions": {
-    "html-minifier-terser": "6.1.0"
   }
 }
