@@ -15,10 +15,10 @@ function Certifications() {
     <Container fluid className="certification-section" style={{ paddingTop: "80px", paddingBottom: "50px", minHeight: "100vh" }}>
       <Particle />
       <Container>
-        <h1 className="certification-heading" style={{ marginBottom: "30px" }}>
+        <h1 className="certification-heading" style={{ marginBottom: "50px" }}>
           <strong className="purple">My Certifications</strong>
         </h1>
-        <p style={{ color: "white", marginBottom: "50px" }}>
+        <p style={{ color: "white", marginBottom: "40px" }}>
           Here are some certifications I have earned to strengthen my expertise.
         </p>
 
@@ -26,7 +26,7 @@ function Certifications() {
           <Col md={4} className="certification-card">
             <CertificationCard
               imgPath={aws}
-              title="AWS Certified Solutions Architect"
+              title="AWS Certificate"
               issuedBy="Amazon Web Services"
               issueDate="Aug 2023"
               certLink="https://drive.google.com/file/d/1ZNNsV1CniCV4Es2jvlbO8u-sKhQe5pjo/view?usp=sharing"
@@ -36,7 +36,7 @@ function Certifications() {
           <Col md={4} className="certification-card">
             <CertificationCard
               imgPath={devops}
-              title="DevOps Foundation Certification"
+              title="DevOps Certificate"
               issuedBy="DevOps Institute"
               issueDate="Nov 2023"
               certLink="https://drive.google.com/file/d/16JvKiR2_PT1--KNZyE3tnfRzXvwIOg20/view?usp=sharing"
@@ -46,7 +46,7 @@ function Certifications() {
           <Col md={4} className="certification-card">
             <CertificationCard
               imgPath={fullstack}
-              title="Full Stack Java Developer Certification"
+              title="Full Stack Java Developer Certificate"
               issuedBy="Oracle"
               issueDate="Nov 2022"
               certLink="https://drive.google.com/file/d/1E68-UHmEg_ENSDDUgBI9Ntak2TW1dZhN/view?usp=sharing"
@@ -56,7 +56,7 @@ function Certifications() {
           <Col md={4} className="certification-card">
             <CertificationCard
               imgPath={iot}
-              title="IoT Developer Certification"
+              title="IoT Certificate"
               issuedBy="Cisco"
               issueDate="March 2021"
               certLink="https://drive.google.com/file/d/1Y4QVzUFLty08NHdSS5LIPU4srBC6Ditk/view?usp=sharing"
@@ -66,7 +66,7 @@ function Certifications() {
           <Col md={4} className="certification-card">
             <CertificationCard
               imgPath={uiux}
-              title="UI/UX Design Certification"
+              title="UI/UX certificate"
               issuedBy="Google"
               issueDate="April 2021"
               certLink="https://drive.google.com/file/d/174yVlrQgojXZidzORYcd7EMD158pO24x/view?usp=sharing"
