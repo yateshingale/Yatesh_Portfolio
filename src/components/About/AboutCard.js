@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+
 
 function AboutCard() {
   return (
@@ -8,33 +8,51 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            Hey Guys, I am <span className="purple">Yatesh Ingale</span>
+            from <span className="purple"> Pune, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            Hi Everyone, I am Yatesh Ingale from Pune, Maharashtra, India.
+            I am an Aspiring AWS/DevOps Engineer with a strong foundation in cloud computing, automation, and CI/CD pipelines.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I hold a Bachelor of Computer Application (BCA) from Savitribai Phule Pune University with a CGPA of 8.3 and
+             have gained hands-on experience in
+             AWS, Terraform, Kubernetes, Jenkins, Docker, and Ansible through internships and projects.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            🔹 Key Expertise:
+            <br />
+✔️ Cloud Infrastructure (AWS – EC2, S3, IAM, RDS, Route 53)
+<br />
+✔️ CI/CD Pipelines (Jenkins, GitHub Actions, ArgoCD)
+<br />
+✔️ Infrastructure as Code (Terraform, CloudFormation)
+<br />
+✔️ Containerization & Orchestration (Docker, Kubernetes)
+<br />
+✔️ Monitoring & Security (Prometheus, Grafana, SonarQube, Trivy)
+<br />
+Beyond tech, I love:
+<br />
+🏔️ Trekking in the Mountains
+<br />
+🏖️ Relaxing by the Beach
+<br />
+✍️ Writing Tech Blogs
+<br />
+🌍 Traveling & Exploring
+<br />
+
+🌟 "Passionate about building scalable, secure, and automated cloud solutions!"
+<br />
           </p>
           <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
+           
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          "Code, deploy, automate—repeat. The DevOps way!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Yateshingale</footer>
         </blockquote>
       </Card.Body>
     </Card>
